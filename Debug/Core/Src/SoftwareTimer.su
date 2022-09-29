@@ -1,0 +1,2 @@
+../Core/Src/SoftwareTimer.c:10:6:setTimer	16	static
+../Core/Src/SoftwareTimer.c:14:6:TimerRun	4	static
